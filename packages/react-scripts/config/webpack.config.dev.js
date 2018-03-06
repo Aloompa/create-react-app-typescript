@@ -117,12 +117,7 @@ module.exports = {
       // https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/
       'react-native': 'react-native-web',
 
-      'styled-components/native': 'styled-components',
-      'react-native-autolink': '@aloompa/native-components/web/components/Autolink',
-      'react-native-image-progress': '@aloompa/native-components/web/components/ImageProgress',
-      'react-native-transformable-image': '@aloompa/native-components/web/components/TransformableImage',
-      'react-native-loading-spinner-overlay': '@aloompa/native-components/web/components/LoadingSpinnerOverlay',
-      'react-native-invertible-scroll-view': '@aloompa/native-components/web/components/InvertableScroll'
+      'styled-components/native': 'styled-components'
     },
     plugins: [
       // Prevents users from importing files from outside of src/ (or node_modules/).
